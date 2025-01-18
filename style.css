@@ -22,7 +22,7 @@ footer > p {
     font-size: 1rem;
     flex-grow: 0;
     flex-basis: 1; 
-    background-color: blue;
+    /*background-color: blue;*/
     width: 120px;
     border-left: 0;
 }
@@ -116,8 +116,8 @@ li {
 #läufer {
     z-index: -99;
     position: fixed;
-    background-color: white;
-    opacity: 80%;
+    background-color: whitesmoke;
+    opacity: 100%;
     width: 50%;
     height: 100%;
 }
