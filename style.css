@@ -99,10 +99,6 @@ li {
     font-family: ubuntu;
 }
 
-#main {
-    /*background-color: pink;*/
-}
-
 #background {
     display: grid;
     justify-items: center;
@@ -151,9 +147,6 @@ li {
     footer {
         font-size: 0.4rem;
         flex-direction: column;
-    }
-
-    footer > p {
     }
 
     h1 {
