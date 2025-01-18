@@ -1,12 +1,12 @@
 footer {
     /*background-color: red;*/
     display: flexbox;
-    
     margin-left: 25%;
     text-align: center;
     padding: 10px;
     font-size: 0.7rem;
     color: #3E92CC;
+    font-family: ubuntu;
 }
 
 hr {
@@ -18,13 +18,23 @@ h1 {
     font-size: 2rem;
     width: 68%;
     color: #004BA8;
+    font-family: ubuntu;
 }
 
 h2 {
     /*background-color: aqua;*/
     font-size: 1.3rem;
     width: 68%;
-    color: #006EF5;
+    color: #004BA8; 
+    font-family: ubuntu;
+}
+
+h3 {
+    /*background-color: aqua;*/
+    font-size: 1.3rem;
+    width: 68%;
+    color: #006EF5; 
+    font-family: ubuntu;
 }
 
 img {
@@ -36,6 +46,7 @@ p {
     /*background-color: green;*/
     font-size: 1rem;
     width: 68%;
+    font-family: ubuntu;
 }
 
 ul {
@@ -49,6 +60,7 @@ li {
     /*background-color: gray;*/
     width: 75%;
     font-size: 1rem;
+    font-family: ubuntu;
 }
 
 #main {
