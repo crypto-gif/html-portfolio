@@ -58,14 +58,9 @@ h3 {
 }
 
 img {
-    /*background-color: yellow;*/
-    width: 68%;
+    background-color: yellow;
+    width: 75%;
     max-width: 250px;
-    border-left: 0;
-    margin: 0;
-    justify-content: center;
-    align-items: center;
-    justify-items: center;
 }
 
 #image-container {
@@ -73,7 +68,6 @@ img {
     max-height: 250px;
     width: 66.5%;
     display: flex;
-    flex-direction: row;
     justify-content: center;
 }
 
